@@ -1,0 +1,17 @@
+.arrow {
+  border: solid;
+  width: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.pause {
+  border: solid;
+  width: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.play {
+  background-color: green;
+}
